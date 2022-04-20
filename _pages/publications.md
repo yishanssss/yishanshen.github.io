@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 Current work:
+
+
 <!---
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -16,4 +19,5 @@ Current work:
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 -->
