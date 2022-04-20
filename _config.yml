@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. student in Applied Math and Computational Science"
   location         : "Philadelphia, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=yishan+shen"
   googlescholar    : ""
   email            : "yishans@sas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yishan-shen-41a4561aa/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
