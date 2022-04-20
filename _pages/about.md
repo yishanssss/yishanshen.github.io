@@ -13,3 +13,9 @@ My name is Yishan Shen, a Ph.D. student in the Applied Mathematics and Computati
 <!---
 <img src="https://raw.githubusercontent.com/yishanssss/yishanshen.github.io/gh-pages/images/editing-talk.png">
 -->
+
+Education
+====
+B.S. in Base Mathematics Class, Wuhan University, 2019
+M.S. in Math, University of Pennsylvania, 2021
+Ph.D. in AMCS, University of Pennsylvania, 2021-Present
